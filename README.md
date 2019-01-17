@@ -26,4 +26,4 @@ Plots
 
 ![average waiting time seconds](https://user-images.githubusercontent.com/11237613/51345028-fa038880-1a67-11e9-9b93-0e86de52cc3e.png)
 
-
+![time series of waiting time october 2017](https://user-images.githubusercontent.com/11237613/51345111-2e774480-1a68-11e9-9548-b0ce3de87de4.png)
