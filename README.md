@@ -4,7 +4,7 @@ The Department of Building on average serves approximately 1100 customers a day 
 
 Data: ~ 2,000,000 Qmatic transactions from October 2016 through December 2018
 
-Target variable: High wait time greater than or equal to 25 minutes.
+Target variable: High wait time greater than or equal to 25 minutes (1500 seconds).
 
 Features: Daily staff working hour, number of staff, transactions and unique customers, season dummy variable, daily weather data (average temperature, snow, rain), delivered service categories.
 
