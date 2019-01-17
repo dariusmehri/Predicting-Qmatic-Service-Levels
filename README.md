@@ -22,3 +22,8 @@ Number of customers greater than 1260
 Number of service category Fast App transactions greater than 260
 Number of delivered service AP Pro Cert Filing transactions greater than 90
 
+Plots
+
+![average waiting time seconds](https://user-images.githubusercontent.com/11237613/51345028-fa038880-1a67-11e9-9b93-0e86de52cc3e.png)
+
+
